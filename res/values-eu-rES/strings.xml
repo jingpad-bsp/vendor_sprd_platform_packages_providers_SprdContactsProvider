@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sharedUserLabel">Android-en Aplikazio Nagusiak</string>
+<string name="app_label">Kontaktuen Memoria</string>
+<string name="provider_label">Kontaktuak</string>
+<string name="upgrade_out_of_memory_notification_ticker">Kontaktuen eguneraketak memoria gehiago behar du.</string>
+<string name="upgrade_out_of_memory_notification_title">Kontaktuen biltegiratzearen bertsio-berritzea</string>
+<string name="upgrade_out_of_memory_notification_text">"Sakatu bertsio-berritzea osatzeko."</string>
+<string name="default_directory">Kontaktuak</string>
+<string name="local_invisible_directory">Bestelako</string>
+<string name="voicemail_from_column">"Ahots mezua bidali du "</string>
+<string name="debug_dump_title">Kopiatu kontaktuen datu-basea</string>
+<string name="debug_dump_database_message">Orain 1) zure datu-basearen kopia bat egingo duzu, kontaktuei buruzko informazioa eta barne-memoriako dei erregistro guztiak barne hartzen dituena, eta 2) posta elektronikoz bidaliko duzu. Kopia gailutik kanpo kopiatu ostean edo hartzaileak kopiaren mezua jaso ostean, ezabatu zure kopia.</string>
+<string name="debug_dump_delete_button">Ezabatu orain</string>
+<string name="debug_dump_start_button">Hasi</string>
+<string name="debug_dump_email_sender_picker">Aukeratu fitxategia bidaltzeko programa bat</string>
+<string name="debug_dump_email_subject">Kontaktuen datu-basea erantsi da</string>
+<string name="debug_dump_email_body">Nire kontaktuen datu-basea dago erantsita, nire kontaktuen informazio guztiarekin. Kontuz maneiatu.</string>
+<string name="phone">"Telefonoa"</string>
+<string name="missing_required_permission">"Desgaitu egin duzu beharrezko baimena."</string>
+</resources>

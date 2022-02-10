@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sharedUserLabel">"‏Android کور ایپس"</string>
+<string name="app_label">"رابطوں کا ذخیرہ"</string>
+<string name="provider_label">"رابطے"</string>
+<string name="upgrade_out_of_memory_notification_ticker">"رابطے تازہ کاری اورمزید میموری کی ضرورت ہے."</string>
+<string name="upgrade_out_of_memory_notification_title">"رابطےکو ذخیرھ کرنے کی تازہ کاری ھو رھی ھے"</string>
+<string name="upgrade_out_of_memory_notification_text">"اپ گریڈ مکمل کرنے کیلئے دبائيں."</string>
+<string name="default_directory">"رابطے"</string>
+<string name="local_invisible_directory">"دیگر"</string>
+<string name="voicemail_from_column">سے صوتی میل</string>
+<string name="debug_dump_title">"رابطوں کے ڈیٹا بیس کی نقل کریں"</string>
+<string name="debug_dump_database_message">"آپ انٹرنل اسٹوریج میں 1) اپنے رابطوں سے متعلّق ساری معلومات اور کال لاگس کی ایک کاپی بنانے والے ہیں، اور 2) اسے ای میل کرنے والے ہیں۔ یاد رکھیں جیسے ہی ڈیوائس سے الگ اس کی کاپی کامیبابی کے ساتھ تیار ہوجائے یا ای میل موصول ہوجائے آپ کو یہ کاپی ڈلیٹ کردینی ہے۔"</string>
+<string name="debug_dump_delete_button">"ابھی حذف کریں"</string>
+<string name="debug_dump_start_button">"شروع کریں"</string>
+<string name="debug_dump_email_sender_picker">"اپنی فائل بھیجنے کیلئے کوئی پروگرام منتخب کریں"</string>
+<string name="debug_dump_email_subject">"روابط Db منسلکہ"</string>
+<string name="debug_dump_email_body">"میری تمام کانٹیکٹ ڈیٹا بیس تمام رابطے کی معلومات کے ساتھ منسلک ھے، احتیاط سے استعمال کریں"</string>
+<string name="phone">"فون"</string>
+<string name="missing_required_permission">"آپ نے ایک درکار اجازت غیر فعال کر دی ہے۔"</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sharedUserLabel">"កម្មវិធី​​សំខាន់​ៗ​របស់ Android"</string>
+<string name="app_label">"ទំហំផ្ទុ​ក​ទំនាក់ទំនង"</string>
+<string name="provider_label">"ទំនាក់ទំនង"</string>
+<string name="upgrade_out_of_memory_notification_ticker">"ការ​បង្កើន​ជំនាន់​ទំនាក់ទំនង​ត្រូវការ​អង្គ​ចងចាំ​ច្រើន។"</string>
+<string name="upgrade_out_of_memory_notification_title">"កំពុង​បង្កើនជំនាន់​ទំហំ​ផ្ទុក​សម្រាប់​ទំនាក់​ទំនង"</string>
+<string name="upgrade_out_of_memory_notification_text">"ចុច​ដើម្បី​បញ្ចប់​ការ​បង្កើន​ជំនាន់។"</string>
+<string name="default_directory">"ទំនាក់ទំនង"</string>
+<string name="local_invisible_directory">ផ្សេងទៀត</string>
+<string name="voicemail_from_column">"សារ​ជា​សំឡេង​មក​ពី "</string>
+<string name="debug_dump_title"> ថតចម្លងទិន្នន័យរបស់កម្រងទំនាក់ទំនង</string>
+<string name="debug_dump_database_message">"លោកអ្នកនឹង 1)ថតចម្លងទិន្នន័យផ្ទាល់ខ្លួនរបស់លោកអ្នកមានដូចជារាល់ពត៍មានដែលទាក់ទងនឹងទំនាក់ទំនងទាំងអស់ព្រមទាំងកំណត់ត្រាការហៅផ្សេងៗចូលទៅអង្គចងចាំខាងក្នុង ហើយបន្ទាប់មក2) ផ្ញើអ៊ីមែលទិន្នន័យទាំងនេះ។សូមចងចាំលុបទិន្នន័យដែលបានថតចម្លងម៉ោងអោយបានលឿនបំផុតបន្ទាប់ពីលោកអ្នកបានថតចម្លងវាចេញបានសម្រេចពីឧបករណ៍ឬបន្ទាប់ពីអ៊ីមែលបានទទួល។"</string>
+<string name="debug_dump_delete_button">"លុប​ឥឡូវ"</string>
+<string name="debug_dump_start_button">"ចាប់ផ្ដើម"</string>
+<string name="debug_dump_email_sender_picker">"ជ្រើស​កម្មវិធី​ដើម្បី​ផ្ញើ​ឯកសារ​របស់​អ្នក"</string>
+<string name="debug_dump_email_subject">ឃ្លាំងទិន្នន័យក្នុងការធ្វើការទាក់ទងឆាប់រហ័ស</string>
+<string name="debug_dump_email_body">"ឯកសារភ្ជាប់សុទ្ធតែជាទិន្នន័យនៃកំណត់ត្រាទំនាក់ទំនងរបស់ទំនាក់ទំនងទាំងអស់ ដូច្នេះត្រូវតែចាត់ចែងដោយប្រុងប្រយ័ត្នបន្តិច។"</string>
+<string name="phone">"ទូរស័ព្ទ"</string>
+<string name="missing_required_permission">"អ្នកបានបិទសិទ្ធិអនុញ្ញាតដែលតម្រូវឲ្យមាន។"</string>
+</resources>

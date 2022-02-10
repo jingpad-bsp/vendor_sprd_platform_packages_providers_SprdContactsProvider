@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sharedUserLabel">"Appilikeeshinoota bu’uuraa Android"</string>
+<string name="app_label">"Kuusaa qunnamrtiiwwanii"</string>
+<string name="provider_label">"Qunnamtoota"</string>
+<string name="upgrade_out_of_memory_notification_ticker">"Qunnamtiiwwan guddisuun miimoorii cimaa barbaachisa."</string>
+<string name="upgrade_out_of_memory_notification_title">"Kuusaa qunnamtiiwwanii guddisuu"</string>
+<string name="upgrade_out_of_memory_notification_text">"Guddisa xumuruuf xuqi."</string>
+<string name="default_directory">"Qunnamtoota"</string>
+<string name="local_invisible_directory">"Biroo"</string>
+<string name="voicemail_from_column">"Ergaa sagalee irraa "</string>
+<string name="debug_dump_title">"Daataabeezii qunnamtiiwwanii garagalchuu"</string>
+<string name="debug_dump_database_message">"Daataabeezii lakkoofsa guyyaa 1) kan odeeffannoo qunnamtiiwwaniin walqabatan fi kuusaa bilbilamtootaa hunda gara kuusaa keessaatti garagalchuuf jetta fi, 2) erguuf jetta. Akkuam meeshicha irraa milkaa’inaan garagalchiteen yookan ergaan fudhatameen garalchicha balleessuu yaadadhu."</string>
+<string name="debug_dump_delete_button">"Amma balleessi"</string>
+<string name="debug_dump_start_button">"Jalqabi"</string>
+<string name="debug_dump_email_sender_picker">"Galmee kee erguuf choose sagantaa filadhu"</string>
+<string name="debug_dump_email_subject">"Db qunnamtiiwwanii walitti qabsiifameera"</string>
+<string name="debug_dump_email_body">"Kan walitti qabsiifame daataabeezii qunnamtiiwwanii koo fi beellamawwanii f iodeeffannoo dhuunfaati . Of eeggannoo qabuu."</string>
+<string name="phone">"Bilbiila"</string>
+<string name="missing_required_permission">"Ati eyyaama barbaadame dalaga ala gooteeta."</string>
+</resources>

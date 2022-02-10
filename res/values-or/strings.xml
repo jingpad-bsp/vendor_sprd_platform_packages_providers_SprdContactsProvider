@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sharedUserLabel">"ଆଣ୍ଡ୍ରଏଡ଼ କୋର୍‌ ଆପ୍‌ଗୁଡିକ"</string>
+<string name="app_label">"ଯୋଗାଯୋଗ ଗୁଡିକର ଷ୍ଟୋରେଜ୍‌"</string>
+<string name="provider_label">"ସମ୍ପର୍କ"</string>
+<string name="upgrade_out_of_memory_notification_ticker">"ଯୋଗାଯୋଗ ଅପଗ୍ରେଡ଼ କରିବାକୁ ଅଧିକ ମେମୋରି ଦରକାର |"</string>
+<string name="upgrade_out_of_memory_notification_title">"ଯୋଗାଯୋଗ ଗୁଡିକପାଇଁ ଅପଗ୍ରେଡ଼ କରୁଛି"</string>
+<string name="upgrade_out_of_memory_notification_text">"ଅପଗ୍ରେଡ୍ ସମ୍ପୂର୍ଣ୍ଣ କରିବା ପାଇଁ ଟ୍ୟାପ୍ କରନ୍ତୁ ।"</string>
+<string name="default_directory">"ସମ୍ପର୍କ"</string>
+<string name="local_invisible_directory">"ଅନ୍ୟ"</string>
+<string name="voicemail_from_column">"ଠାରୁ ଭଏସ୍‌ ମେଲ୍‌"</string>
+<string name="debug_dump_title">"ଯୋଗାଯୋଗ ଡାଟାବେସ୍‌ କପିକରନ୍ତୁ"</string>
+<string name="debug_dump_database_message">"ଆପଣ 1)ଆପଣଙ୍କ ଡାଟାବେସ୍‌ର ଗୋଟିଏ କପି କରିବାକୁ ଯାଉଛନ୍ତି ଯାହା ଆପଣଙ୍କ ସମସ୍ତ ଯୋଗାଯୋଗ ସମ୍ପର୍କିତ ସୁଚନାବଳୀ ଏବଂ ସମସ୍ତ କଲ୍‌ ଲଗ୍‌ଗୁଡିକୁ ଆଭ୍ୟନ୍ତରୀଣ ଷ୍ଟୋରେଜ୍‌ରେ ଅନ୍ତର୍ଗତ କରେ, ଏବଂ 2)ଏହାକୁ ଇମେଲ୍‌ କରେ | ମନେରଖନ୍ତୁ ଆପଣ ଏହାକୁ ଡିଭାଇସ୍‌ରେ ସଫଳତାର ସହ କପି କରିବା ପରେପରେ ଏବଂ ଇମେଲ୍‌ ରିସିଭ୍‌ କଲାପରେ କପିକୁ ଅପସାରିତ କରନ୍ତୁ |"</string>
+<string name="debug_dump_delete_button">"ବର୍ତ୍ତମାନ ଅପସାରିତ କରନ୍ତୁ"</string>
+<string name="debug_dump_start_button">"ଆରମ୍ଭ"</string>
+<string name="debug_dump_email_sender_picker">"ଆପଣଙ୍କ ଫାଇଲ ପଠେଇବାକୁ ଗୋଟିଏ ପ୍ରୋଗ୍ରାମକୁ ବାଛନ୍ତୁ"</string>
+<string name="debug_dump_email_subject">"ଯୋଗାଯୋଗ Db ସଂଲଗ୍ନକୃତ"</string>
+<string name="debug_dump_email_body">"ସଂଲଗ୍ନ ହୋ‌ଇଥିବା ମୋର ଯୋଗାଯୋଗ ଡାଟାବେସ୍‌ରେ ମୋର ସମସ୍ତ ଯୋଗାଯୋଗ ସୁଚନାବଳୀ ଅଛି | ଯତ୍ନର ସହ ପରିଚାଳିତ କରନ୍ତୁ |"</string>
+<string name="phone">"ଫୋନ"</string>
+<string name="missing_required_permission">"ଆପଣ ଏକ ଆବଶ୍ୟକୀୟ ଅନୁମତିକୁ ଅକ୍ଷମ କରିଛନ୍ତି |"</string>
+
+</resources>

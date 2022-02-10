@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sharedUserLabel">"ແອັບພລິເຄຊັນຫຼັກຂອງ Android"</string>
+<string name="app_label">"ບ່ອນເກັບລາຍຊື່ຕິດຕໍ່"</string>
+<string name="provider_label">"ຜູ້ຕິດຕໍ່ພົວພັນ"</string>
+<string name="upgrade_out_of_memory_notification_ticker">"ຍົກລະດັບລາຍຊື່ຕິດຕໍ່ຕ້ອງການຄວາມຈໍາເພີ່ມເຕີມ."</string>
+<string name="upgrade_out_of_memory_notification_title">"ການຍົກລະດັບໜ່ວຍຄວາມຈໍາສຳລັບລາຍຊື່ຕິດຕໍ່"</string>
+<string name="upgrade_out_of_memory_notification_text">"ແຕະເພື່ອສຳເລັດການຍົກລະດັບ."</string>
+<string name="default_directory">"ຜູ້ຕິດຕໍ່ພົວພັນ"</string>
+<string name="local_invisible_directory">"ອື່ນໆ"</string>
+<string name="voicemail_from_column">"ຂໍ້ຄວາມສຽງຈາກ "</string>
+<string name="debug_dump_title">"ກອ໋ບປີຖານຂໍ້ມູນລາຍຊື່ຕິດຕໍ່"</string>
+<string name="debug_dump_database_message">"ທ່ານກຳລັງປະມານ 1) ເຮັດສຳເນົາຖານຂໍ້ມູນຂອງທ່ານເຊິ່ງກ່ຽວຂ້ອງຂໍ້ມູນລາຍຊື່ຕິດຕໍ່ທັງໝົດ ແລະ ບັນທຶກການໂທທັງໝົດໄປຍັງໜ່ວຍເກັບຄວາມຈໍາພາຍໃນ ແລະ 2) ສົ່ງອີແມວ. ຢ່າລືມລົບສໍາເນົາທັນທີເມື່ອທ່ານໄດ້ກອ໋ບປີຈາກເຄື່ອງສໍາເລັດແລ້ວ ຫຼື ໄດ້ຮັບອີແມວແລ້ວ."</string>
+<string name="debug_dump_delete_button">"ລຶບດຽວນີ້"</string>
+<string name="debug_dump_start_button">"ເລີ່ມ"</string>
+<string name="debug_dump_email_sender_picker">"ເລືອກໂປຣແກຣມທີ່ໃຊ້ຈະສົ່ງໄຟລ໌ຂອງທ່ານ"</string>
+<string name="debug_dump_email_subject">"ໄດ້ຕິດຂັດຖານຂໍ້ມູນລາຍຊື່ຕິດຕໍ່"</string>
+<string name="debug_dump_email_body">"ທີ່ໄດ້ຕິດຂັດແມ່ນຖານຂໍ້ມູນລາຍຊື່ຕິດຕໍ່ຂອງຂ້ອຍພ້ອມຂໍ້ມູນລາຍຊື່ຕິດຕໍ່ຂອງຂ້ອຍທັງໝົດ. ຈັດການດ້ວຍຄວາມລະມັດລະວັງ. "</string>
+<string name="phone">"ໂທລະສັບ"</string>
+<string name="missing_required_permission">"ທ່ານ​ປິດ​ໃຊ້​ງານ​ການ​ອະ​ນຸ​ຍາດ​ທີ່​ຕ້ອງ​ການ​ແລ້ວ."</string>
+</resources>

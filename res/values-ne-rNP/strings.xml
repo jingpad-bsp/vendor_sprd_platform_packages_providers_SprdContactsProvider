@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sharedUserLabel">"Android मुख्य अनुप्रयोगहरु"</string>
+<string name="app_label">"सम्पर्कहरु भण्डारण"</string>
+<string name="provider_label">"सम्पर्कहरू"</string>
+<string name="upgrade_out_of_memory_notification_ticker">"सम्पर्कहरुको अध्यावधिक गर्नका लागि धेरै मेमोरी आवश्यक हुन्छ।"</string>
+<string name="upgrade_out_of_memory_notification_title">"सम्पर्कहरुका लागि भण्डारण अध्याबधिक हुदैछ"</string>
+<string name="upgrade_out_of_memory_notification_text">"अपग्रेड गर्ने काम पूरा गर्न ट्याप गर्नुहोस्।"</string>
+<string name="default_directory">"सम्पर्कहरू"</string>
+<string name="local_invisible_directory">"अन्य"</string>
+<string name="voicemail_from_column">"बाट भ्वाईसमेल"</string>
+<string name="debug_dump_title">"सम्पर्क डाटाबेसहरु नक्कल"</string>
+<string name="debug_dump_database_message">"तपाईं 1)सम्पर्कसँग सम्बन्धित जानकारी र सबै कल लगलाई  आन्तरिक भण्डारणमा समावेश गर्ने आफ्नो पात्रो डाटावेजको प्रतिलिपि बनाउने, र 2) यसलाई इमेल गर्ने बारेमा हुनुहुन्छ। तपाईंले यसलाई सफलतापूर्वक प्रतिलिपि गर्नु भएपछि प्रतिलिपिलाई मेटाउन साधनलाई बन्द गर्न वा प्राप्त भएपछि इमेल गर्न सम्झिनुहोस्।"</string>
+<string name="debug_dump_delete_button">"अहिले मेटाउनुहोस"</string>
+<string name="debug_dump_start_button">"सुरु"</string>
+<string name="debug_dump_email_sender_picker">"तपाइको फाईल पठाउनको लागि कार्यक्रम रोज्नुहोस"</string>
+<string name="debug_dump_email_subject">"सम्पर्कहरू Db संलग्न गरिययो"</string>
+<string name="debug_dump_email_body">"मेरो सबै सम्पर्क जानकारीसँग मेरो सम्पर्कहरूको डाटावेजमा संलग्न गरिएको हुन्छ।  होसियारिका साथ चलाउनुहोस्।"</string>
+<string name="phone">"फोन"</string>
+<string name="missing_required_permission">"तपाईँले आवश्यक अनुमति असक्षम गर्नुभएको छ।"</string>
+</resources>

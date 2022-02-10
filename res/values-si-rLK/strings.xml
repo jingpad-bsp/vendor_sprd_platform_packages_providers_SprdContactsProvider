@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sharedUserLabel">"Android Core යෙදුම්"</string>
+<string name="app_label">"සබැඳුම් ගබඩාව"</string>
+<string name="provider_label">"සම්බන්ධතා"</string>
+<string name="upgrade_out_of_memory_notification_ticker">"සබැඳුම් උත්ශ්‍රේණිගත කිරීමට තවත් මතකය අවශ්‍ය වේ."</string>
+<string name="upgrade_out_of_memory_notification_title">"සබැඳුම් සඳහා ගබඩාව උත්ශ්‍රේනිගත කෙරේ"</string>
+<string name="upgrade_out_of_memory_notification_text">"උත්ශ්‍රේනිගත කිරීමට තට්ටු කරන්න."</string>
+<string name="default_directory">"සම්බන්ධතා"</string>
+<string name="local_invisible_directory">"වෙනත්"</string>
+<string name="voicemail_from_column">"වෙතින් හඬ තැපැලක්"</string>
+<string name="debug_dump_title">"සබැඳුම් දත්ත සමුහය පිටපත් කරන්න"</string>
+<string name="debug_dump_database_message">"ඔබ 1)සියලුම සබැඳුම් හා අඩාල තොරතුරු සහ සියලුම ඇමතුම් ලොග ඇතුලත් ඔබේ දත්ත සමූහයේ පිටපතාක් අභ්‍යන්තර ගබඩාවට පිටපත් කිරීමට, 2) එය ඊමේල් කිරීමට ආසන්නයි. උපාංගයට සාර්ථකව පිටපත් වීමෙන් හෝ ඊමේල් එක ලැබුණු විගස එම පිටපත මැකීමට මතක තබාගන්න."</string>
+<string name="debug_dump_delete_button">"දැන් මකන්න"</string>
+<string name="debug_dump_start_button">"ආරම්භ කරන්න"</string>
+<string name="debug_dump_email_sender_picker">"ඔබේ ගොනුව යැවීමට වැඩසටහනක් තෝරන්න"</string>
+<string name="debug_dump_email_subject">"සබැඳුම් දත්ත සමුහය අමුණන ලදී"</string>
+<string name="debug_dump_email_body">"අමුණා ඇත්තේ මගේ සියලුම සබැඳුම් තොරතුරු සමඟ මගේ සබැඳුම් දත්ත සමුහයයි. ප්‍රවේශමෙන් හසුරුවන්න."</string>
+<string name="phone">"දුරකථනය"</string>
+<string name="missing_required_permission">"ඔබ අවශ්‍ය අවසරයක් අබල කර ඇත."</string>
+</resources>

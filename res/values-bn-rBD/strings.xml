@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sharedUserLabel">অ্যানড্রইড কোর অ্যাপ্লিকেশন</string>
+<string name="app_label">"যোগাযোগগুলি সংগ্রহস্থল"</string>
+<string name="provider_label">যোগাযোগগুলি</string>
+<string name="upgrade_out_of_memory_notification_ticker">"যোগাযোগ আপগ্রেড এর জন্য অধিক মেমরি প্রয়োজন"</string>
+<string name="upgrade_out_of_memory_notification_title">"যোগাযোগ স্টোরেজ আপগ্রেড করার প্রক্রিয়া"</string>
+<string name="upgrade_out_of_memory_notification_text">"আপগ্রেড সম্পূর্ন করতে টিপুন"</string>
+<string name="default_directory">যোগাযোগগুলি</string>
+<string name="local_invisible_directory">অন্যান্য</string>
+<string name="voicemail_from_column">ভিডিও মেইল থেকে</string>
+<string name="debug_dump_title">পরিচিতি ডাটাবেস অনুলিপি </string>
+<string name="debug_dump_database_message">" আপনার ডাটাবেসের কপি করতে যাচ্ছেন যার অভ্যন্তরীন স্টোরেজে কন্ট্যাক্ট সংবলিত তথ্য এবং কল লগ রয়েছে।ইমেইল করুন, কপি হওয়া শেষে বা ইমেইল পাওয়া মাত্র কপি মুছে ফেলতে ভুলে যাবেন না।"</string>
+<string name="debug_dump_delete_button">এখন মুছে দিন</string>
+<string name="debug_dump_start_button">আরম্ভ</string>
+<string name="debug_dump_email_sender_picker">আপনার ফাইল পাঠাতে একটি প্রোগ্রাম নির্বাচন করুন</string>
+<string name="debug_dump_email_subject">পরিচিতিতে সংযুক্ত Db</string>
+<string name="debug_dump_email_body">" সব কন্ট্যাক্ট তথ্য আমার কন্ট্যাক্ট ডাটাবেসে  সংযুক্ত হয়েছে।সতর্কতার সাথে হ্যান্ডেল করুন।" </string>
+<string name="phone">ফোন</string>
+<string name="missing_required_permission">"আপনি একটি প্রয়োজনীয় অনুমতি অক্ষম করেছেন৷"</string>
+</resources>

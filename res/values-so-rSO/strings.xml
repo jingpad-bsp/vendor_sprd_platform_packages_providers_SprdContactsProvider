@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sharedUserLabel">"Appska Buruqda Androidka"</string>
+<string name="app_label">"Kaydiyaha Contactska"</string>
+<string name="provider_label">"Xiriiradda"</string>
+<string name="upgrade_out_of_memory_notification_ticker">"Cusboonaysiinta contactska waxay ubaahantahay memory."</string>
+<string name="upgrade_out_of_memory_notification_title">"Cosboonaysiinta kaydiyaha ee contacts"</string>
+<string name="upgrade_out_of_memory_notification_text">"Taabo si aad udhamayso cusboonaysiinta"</string>
+<string name="default_directory">"Xiriiradda"</string>
+<string name="local_invisible_directory">"Midkale"</string>
+<string name="voicemail_from_column">"Voicemail ka imaanaya "</string>
+<string name="debug_dump_title">"Koobigaree kaydka macluumaadka contactska"</string>
+<string name="debug_dump_database_message">"Waxaad rabtaa inaad 1) koobi kaqaado kaykaaga macluumaadka taasoo ay kamidtahay dhamaan macluumaadka laxiriira contactska iyo dhamaan wicitaanada loona koobiyeeyo maskaxda gudaha, iyo 2) email inaad kudirto. Xasuusnoow inaad tirtirto koobiga islamarka aad kuguulaysato kakoobigaraynta ama emailka lahelo."</string>
+<string name="debug_dump_delete_button">"Hada tirtir"</string>
+<string name="debug_dump_start_button">"Bilaaw"</string>
+<string name="debug_dump_email_sender_picker">"Dooro barnaamij si aad udirto faylkaaga"</string>
+<string name="debug_dump_email_subject">"contactska Db ga lasoo lifaaqay"</string>
+<string name="debug_dump_email_body">"Lifaaqaan waa kaydka macluumaadka contactska ayna kujiraan dhamaan macluumaadka contactskayga. U ilaali si taxadarleh."</string>
+<string name="phone">"Teleefoon"</string>
+<string name="missing_required_permission">"Waxaad iskaga xirtay ogoolaansho loo baahanyahay."</string>
+</resources>
